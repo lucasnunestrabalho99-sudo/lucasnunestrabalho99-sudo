@@ -14,13 +14,17 @@ Tenho forte atuação na construção de ferramentas para inteligência comercia
 * **Bancos de Dados:** SQLite, modelagem de dados relacional
 * **Ferramentas de Negócio:** Excel Avançado, VBA, Git, GitHub
 
-### 🚀 O que estou construindo
+### 🚀 Projetos em Destaque
 
-Você pode conferir alguns dos meus principais trabalhos abaixo:
-
+**📊 Inteligência Comercial & Dashboards**
+* 📈 **[B2B Sales Analytics Dashboard](https://github.com/lucasnunestrabalho99-sudo/b2b-sales-analytics-dashboard):** Painel analítico desenvolvido em Streamlit para monitoramento de faturamento e métricas de vendas B2B.
+* 🤝 **[Sales CRM & Agenda Dashboard](https://github.com/lucasnunestrabalho99-sudo/sales-agenda-crm-dashboard):** Solução interativa para gestão de carteira de clientes, acompanhamento de funil de vendas e organização de rotinas comerciais.
 * 🗺️ **[Dashboard de Cobertura Geográfica e Distribuição](https://github.com/lucasnunestrabalho99-sudo/mapa-mega):** Aplicação web para cruzamento de regras logísticas e mapeamento de áreas de vendas no Rio de Janeiro.
-* 🏢 **[Automação e Dashboard de Consultas CNPJ](https://github.com/lucasnunestrabalho99-sudo/automacao-cnpj-receitaws):** Sistema completo com fila (worker) e banco de dados para contornar limites de requisição de APIs públicas e gerar relatórios cadastrais.
 
+**⚙️ Automação de Processos & RPA**
+* 🏢 **[Automação e Dashboard CNPJ (ReceitaWS)](https://github.com/lucasnunestrabalho99-sudo/automacao-cnpj-receitaws):** Sistema com fila (worker) e banco de dados para contornar limites de requisição de APIs públicas e gerar relatórios cadastrais.
+* 🤖 **[RPA: Extração e Automação SEFAZ-RJ](https://github.com/lucasnunestrabalho99-sudo/rpa-extracao-automacao-sefaz-rj):** Robô de automação para consulta e extração massiva de dados fiscais, otimizando tempo operacional e garantindo compliance.
+* 
 ### 🤝 Vamos conversar?
 
 Estou aberto a oportunidades profissionais, parcerias e projetos **freelance** em Ciência de Dados e Automação.
